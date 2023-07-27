@@ -80,3 +80,12 @@ table thead tr{
   background: rgb(160, 92, 92);
   padding: 10px 20px;
 }
+
+@media (max-width: 600px) {
+  .tabela {
+    width: 100%;
+    white-space: nowrap;
+    overflow-y: auto;
+    overflow-x: auto;
+  }
+}
