@@ -88,11 +88,14 @@ table thead tr{
 
   table {
     white-space: nowrap;
-    overflow-x: auto;
     margin: 10px;
   }
 
   .container {
     max-width: 95%;
+  }
+
+  tbody tr td {
+    font-size: 15px;
   }
 }
