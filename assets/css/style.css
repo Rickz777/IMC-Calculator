@@ -83,12 +83,11 @@ table thead tr{
 
 @media (max-width: 600px) {
   .tabela {
-    width: 90%;
+    width: 95%;
   }
 
   table {
     white-space: nowrap;
-    overflow-y: auto;
     overflow-x: auto;
     margin: 10px;
   }
