@@ -92,4 +92,8 @@ table thead tr{
     overflow-x: auto;
     margin: 10px;
   }
+
+  .container {
+    max-width: 95%;
+  }
 }
